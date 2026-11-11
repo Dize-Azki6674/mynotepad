@@ -54,3 +54,16 @@ compile_commands.json
 *creator.user*
 
 *_qmlcache.qrc
+
+# Build directories
+/out/
+
+# CMake user presets
+CMakeUserPresets.json
+
+# QtCreator local settings
+/.qtcreator/
+
+# Visual Studio
+/.vs/
+*.user
